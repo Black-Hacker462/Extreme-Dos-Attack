@@ -21,5 +21,3 @@ echo -e " ${BLUE} [√] Paid Or Free :PAID "
 echo -e " ${BLUE}====================================================================="
 echo -e " ${GREEN}"
 read -p  "Enter Password :"
-cd hammer 
-python hammer.py 
