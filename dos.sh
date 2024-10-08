@@ -21,10 +21,6 @@ echo -e " ${BLUE} [√] Paid Or Free :PAID "
 echo -e " ${BLUE}====================================================================="
 echo -e " ${GREEN}"
 read -p  "Enter Password :"
-cd
-cd hammer
-echo "usage :cd hammer ; python3 hammer.py [-s] [-p] [-t]"
-echo "   -h : help"
-echo "   -s : server ip"
-  echo "   -p : port default 80"
-  echo "   -t : turbo default 135"
+cd 
+cd hammer 
+python hammer.py 
