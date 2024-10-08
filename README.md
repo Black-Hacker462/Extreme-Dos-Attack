@@ -20,3 +20,10 @@ cd Extreme-Dos-Attack
 chmod +x dos.sh
 ./dos.sh
 ```
+
+<h2>PASSWORD</h2>
+
+
+```
+BLACK-HACKER
+```
