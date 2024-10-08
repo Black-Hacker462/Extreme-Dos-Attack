@@ -1,4 +1,3 @@
-GNU nano 8.2                                   Dos.sh
 #!/bin/bash
 clear
 
@@ -22,6 +21,7 @@ echo -e " ${BLUE} [√] Paid Or Free :PAID "
 echo -e " ${BLUE}====================================================================="
 echo -e " ${GREEN}"
 read -p  "Enter Password :"
+cd
 cd hammer
 echo "usage :cd hammer ; python3 hammer.py [-s] [-p] [-t]"
 echo "   -h : help"
