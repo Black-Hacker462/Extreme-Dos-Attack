@@ -19,6 +19,10 @@ git clone https://github.com/Black-Hacker462/Extreme-Dos-Attack
 cd Extreme-Dos-Attack
 chmod +x dos.sh
 ./dos.sh
+cd
+cd hammer
+python hammer.py
+
 ```
 
 <h2>PASSWORD</h2>
