@@ -1,6 +1,6 @@
 <center><h2>DDOS-ATTACK</h2></center>
 
-DDOS 
+
 Paid and Unlimited best DDOS ATTACK Tools
 <center><h3>🖤Assalamu Alaikum🖤</h3></center>
 
@@ -18,5 +18,5 @@ git clone https://github.com/cyweb/hammer
 git clone https://github.com/Black-Hacker462/Extreme-Dos-Attack
 cd Extreme-Dos-Attack
 chmod +x dos.sh
-./dos
+./dos.sh
 ```
